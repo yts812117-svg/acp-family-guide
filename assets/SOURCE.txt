@@ -1,0 +1,4 @@
+Lucide icons
+Repository: https://github.com/lucide-icons/lucide
+Used icon revision: 951813ce76a859d4d8b145366972cbb237147a4e
+License: see lucide-LICENSE.txt
