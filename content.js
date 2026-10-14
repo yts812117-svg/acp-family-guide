@@ -1,7 +1,7 @@
 'use strict';
 // All dialogue is authored demonstration content, not participant data or a validated intervention.
 window.GUIDE_DATA = {
- version:'0.3', reviewedOn:'2026-09-20',
+ version:'0.4', reviewedOn:'2026-09-20',
  sources:[
   {id:'S1',short:'ACP概念',title:'Defining Advance Care Planning for Adults: A Consensus Definition From a Multidisciplinary Delphi Panel',citation:'Sudore RL, et al. J Pain Symptom Manage. 2017;53(5):821–832.e1.',type:'专家共识',url:'https://doi.org/10.1016/j.jpainsymman.2016.12.331',supports:'ACP包括理解与交流个人对未来医疗照护的价值、目标及偏好。',limits:'概念依据，不是本网页话术的效果证据。'},
   {id:'S2',short:'亲子沟通研究',title:'Intergenerational communication about advance care planning between older adults and their adult children: a qualitative dyadic study',citation:'Lin TC, Kao CY, Fan SY. BMC Geriatrics. 2026;26:601.',type:'质性研究 · 全文',url:'https://link.springer.com/article/10.1186/s12877-026-07375-0',supports:'9对亲子的访谈涉及日常渐进交流、相互理解和家庭关系。',limits:'中国台湾地区老年父母与成年子女，不能直接推及大陆大学生；不验证本网页回应。'},
